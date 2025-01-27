@@ -32,6 +32,7 @@ Two simple condition :
 * add Introduction page that you can define title and description in mycode page.(you can use HTML tags in title AND description field)
 * Ability to view the number of used MyCodes.
 * Ability to view the list of users who used MyCode and the posts in which MyCode was used 
-* MyCode usage chart and each MyCode separately 
+* MyCode usage chart and each MyCode separately
+* Access is applied to Showthread, Archive, Printable Version,Portal,RSS Pages
 
 ## More details : [Advanced Mycode](https://community.mybb.com/thread-242843.html)
